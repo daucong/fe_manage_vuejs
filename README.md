@@ -1,5 +1,5 @@
 # fe_manage-vuejs
-
+src->GuideSetting
 ## Project setup
 ```
 npm install
