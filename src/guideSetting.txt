@@ -1,0 +1,7 @@
+npm install @mdi/font - icon with mdi
+npm i vuetify@3.0.4
+npm install --save sweetalert - animation with add, edit, delete
+npm install element-plus --save
+npm i vue-router@next
+npm install --save axios vue-axios
+vue create fe_manage-vuejs
